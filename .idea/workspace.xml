@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb973c59-b1c6-418f-8e93-b04e66af9144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A_ThreadCreation/A_UsingThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A_ThreadCreation/B_MultipleTaskMultipleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A_ThreadCreation/B_UsingRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Methods/A_ThreadMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Methods/B_DaemonMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Methods/C_Priority.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ThreadCreation/UsingThread.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,20 +31,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.B_UsingRunnable">
-    <configuration name="A_UsingThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_ThreadCreation.A_UsingThread" />
+}</component>
+  <component name="RunManager" selected="Application.C_Priority">
+    <configuration name="A_ThreadMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Methods.A_ThreadMethods" />
       <module name="Multi-Threading" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A_ThreadCreation.*" />
+          <option name="PATTERN" value="B_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B_DaemonMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Methods.B_DaemonMethod" />
+      <module name="Multi-Threading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C_Priority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Methods.C_Priority" />
+      <module name="Multi-Threading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C_Priority" />
+        <item itemvalue="Application.B_DaemonMethod" />
+        <item itemvalue="Application.A_ThreadMethods" />
         <item itemvalue="Application.B_UsingRunnable" />
         <item itemvalue="Application.B_MultipleTaskMultipleThread" />
-        <item itemvalue="Application.A_UsingThread" />
       </list>
     </recent_temporary>
   </component>
