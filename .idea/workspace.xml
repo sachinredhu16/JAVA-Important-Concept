@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb973c59-b1c6-418f-8e93-b04e66af9144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/B_Methods/A_ThreadMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Methods/B_DaemonMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Methods/C_Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Methods/D_Sleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Methods/E_Yield.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C_Priority">
+  <component name="RunManager" selected="Application.E_Yield">
     <configuration name="A_ThreadMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B_Methods.A_ThreadMethods" />
       <module name="Multi-Threading" />
@@ -65,32 +64,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_MultipleTaskMultipleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_ThreadCreation.B_MultipleTaskMultipleThread" />
-      <module name="Multi-Threading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A_ThreadCreation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B_UsingRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_ThreadCreation.B_UsingRunnable" />
-      <module name="Multi-Threading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A_ThreadCreation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C_Priority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B_Methods.C_Priority" />
       <module name="Multi-Threading" />
@@ -104,13 +77,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="D_Sleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Methods.D_Sleep" />
+      <module name="Multi-Threading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E_Yield" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Methods.E_Yield" />
+      <module name="Multi-Threading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E_Yield" />
+        <item itemvalue="Application.D_Sleep" />
         <item itemvalue="Application.C_Priority" />
         <item itemvalue="Application.B_DaemonMethod" />
         <item itemvalue="Application.A_ThreadMethods" />
-        <item itemvalue="Application.B_UsingRunnable" />
-        <item itemvalue="Application.B_MultipleTaskMultipleThread" />
       </list>
     </recent_temporary>
   </component>
