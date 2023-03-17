@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb973c59-b1c6-418f-8e93-b04e66af9144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/B_Methods/D_Sleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Methods/E_Yield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Methods/F_Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Methods/G_Interrupted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,33 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.E_Yield">
-    <configuration name="A_ThreadMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B_Methods.A_ThreadMethods" />
-      <module name="Multi-Threading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="B_Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B_DaemonMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B_Methods.B_DaemonMethod" />
-      <module name="Multi-Threading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="B_Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.G_Interrupted">
     <configuration name="C_Priority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B_Methods.C_Priority" />
       <module name="Multi-Threading" />
@@ -103,13 +77,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="F_Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Methods.F_Join" />
+      <module name="Multi-Threading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G_Interrupted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Methods.G_Interrupted" />
+      <module name="Multi-Threading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.G_Interrupted" />
+        <item itemvalue="Application.F_Join" />
         <item itemvalue="Application.E_Yield" />
         <item itemvalue="Application.D_Sleep" />
         <item itemvalue="Application.C_Priority" />
-        <item itemvalue="Application.B_DaemonMethod" />
-        <item itemvalue="Application.A_ThreadMethods" />
       </list>
     </recent_temporary>
   </component>
