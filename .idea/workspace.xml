@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb973c59-b1c6-418f-8e93-b04e66af9144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MarkerInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_Syncronization/D_WaitAndNotify.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C_Syncronization/B_WithSynchronization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Syncronization/B_WithSynchronization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +43,9 @@
       <recent name="D:\Java DSA\Multi-Threading\src\C_Syncronization" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MarkerInterface (2)">
-    <configuration name="A_WithoutSynchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_Syncronization.A_WithoutSynchronization" />
+  <component name="RunManager" selected="Application.D_WaitAndNotify">
+    <configuration name="D_WaitAndNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_Syncronization.D_WaitAndNotify" />
       <module name="Multi-Threading" />
       <extension name="coverage">
         <pattern>
@@ -59,15 +57,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_WithSynchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_Syncronization.B_WithSynchronization" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Multi-Threading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C_Syncronization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.D_WaitAndNotify" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MarkerInterface (2)" />
         <item itemvalue="Application.MarkerInterface (1)" />
         <item itemvalue="Application.MarkerInterface" />
-        <item itemvalue="Application.B_WithSynchronization" />
-        <item itemvalue="Application.A_WithoutSynchronization" />
       </list>
     </recent_temporary>
   </component>
