@@ -1,7 +1,7 @@
 package C_Syncronization;
 
 
-// this is a example of synchronized method -- in this , waiting time is more for thread-2
+// this is an example of synchronized method -- in this , waiting time is more for thread-2
 class BookSeatsSync{
      int totalSeats =10;
     public synchronized void bookSeats(int seats){

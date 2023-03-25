@@ -1,5 +1,9 @@
 public class Main {
-    public static void run(){
+    public void run(){
         
+    }
+
+    public void main(String[] args) {
+
     }
 }
