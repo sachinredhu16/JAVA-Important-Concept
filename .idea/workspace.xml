@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb973c59-b1c6-418f-8e93-b04e66af9144" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Threading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA Important Concept.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +35,19 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java DSA/Multi-Threading/src/C_Syncronization&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Java DSA/Multi-Threading/src&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java DSA\Multi-Threading\src" />
       <recent name="D:\Java DSA\Multi-Threading\src\C_Syncronization" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="D_WaitAndNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C_Syncronization.D_WaitAndNotify" />
-      <module name="Multi-Threading" />
+      <module name="JAVA Important Concept" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="C_Syncronization.*" />
@@ -58,7 +60,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Multi-Threading" />
+      <module name="JAVA Important Concept" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,8 +80,22 @@
       </method>
     </configuration>
     <configuration name="MarkerInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MarkerInterface" />
-      <module name="Multi-Threading" />
+      <option name="MAIN_CLASS_NAME" value="Y_MarkerInterface.MarkerInterface" />
+      <module name="JAVA Important Concept" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkerInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Y_MarkerInterface.MarkerInterface" />
+      <module name="JAVA Important Concept" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkerInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Y_MarkerInterface.MarkerInterface" />
+      <module name="JAVA Important Concept" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
