@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb973c59-b1c6-418f-8e93-b04e66af9144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C_Syncronization/D_WaitAndNotify.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -43,7 +42,7 @@
       <recent name="D:\Java DSA\Multi-Threading\src\C_Syncronization" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.D_WaitAndNotify">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="D_WaitAndNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C_Syncronization.D_WaitAndNotify" />
       <module name="Multi-Threading" />
@@ -87,8 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.D_WaitAndNotify" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.D_WaitAndNotify" />
         <item itemvalue="Application.MarkerInterface (2)" />
         <item itemvalue="Application.MarkerInterface (1)" />
         <item itemvalue="Application.MarkerInterface" />
