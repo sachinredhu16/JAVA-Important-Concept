@@ -6,12 +6,12 @@ public class B_DaemonMethod extends Thread{
     }
 
     public static void main(String[] args) {
-
-//        System.out.println("Main method is Daemon : "+Thread.currentThread().isDaemon());
+//        Thread.currentThread().setDaemon(true); --> this will give IllegalThreadStateException
+        System.out.println("Main method is Daemon : "+Thread.currentThread().isDaemon());
 
         B_DaemonMethod b = new B_DaemonMethod();
         b.setDaemon(true);
         b.start();
-//        System.out.println("b is Daemon : "+ b.isDaemon());
+        System.out.println("b is Daemon : "+ b.isDaemon());
     }
 }
