@@ -2,11 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb973c59-b1c6-418f-8e93-b04e66af9144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questions/A_FrogJumpKSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingCodingQues/A_Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B_Methods/B_DaemonMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_Methods/B_DaemonMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B_Methods/G_Interrupted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_Methods/G_Interrupted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/A_StartingThreads/ApplicationAnonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/A_StartingThreads/ApplicationAnonymous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/A_StartingThreads/ApplicationExtends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/A_StartingThreads/ApplicationExtends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/A_StartingThreads/ApplicationRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/A_StartingThreads/ApplicationRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/B_VolatileKeyword/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/B_VolatileKeyword/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/B_VolatileKeyword/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/B_VolatileKeyword/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/C_JoiningAndSynchronizeThreads/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/C_JoiningAndSynchronizeThreads/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/D_LockObjects/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/D_LockObjects/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/D_LockObjects/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/D_LockObjects/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/D_LockObjects/WorkerMethodsSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/D_LockObjects/WorkerMethodsSynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/E_ThreadPools/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/E_ThreadPools/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/E_ThreadPools/WorkerThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/E_ThreadPools/WorkerThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/F_CountDownLatch/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/F_CountDownLatch/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/F_CountDownLatch/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/F_CountDownLatch/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/G_ProducerConsumer/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/G_ProducerConsumer/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/H_WaitAndNotify/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/H_WaitAndNotify/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/H_WaitAndNotify/BlockingQueueApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/H_WaitAndNotify/BlockingQueueApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/H_WaitAndNotify/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/H_WaitAndNotify/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/I_LowLevelProducerConsumer/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/I_LowLevelProducerConsumer/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/I_LowLevelProducerConsumer/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/I_LowLevelProducerConsumer/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/J_ReentrantLocks/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/J_ReentrantLocks/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/J_ReentrantLocks/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/J_ReentrantLocks/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/K_Deadlock/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/K_Deadlock/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/K_Deadlock/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/K_Deadlock/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/K_Deadlock/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/K_Deadlock/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/K_Deadlock/SimpleDeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/K_Deadlock/SimpleDeadLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/L_Semaphores/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/L_Semaphores/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/L_Semaphores/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/L_Semaphores/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/L_Semaphores/Connectionn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/L_Semaphores/Connectionn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/M_CallableAndFuture/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/M_CallableAndFuture/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/M_CallableAndFuture/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/M_CallableAndFuture/App2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/M_CallableAndFuture/CallableTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/M_CallableAndFuture/CallableTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/N_InterruptingThreads/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/N_InterruptingThreads/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMultiThreadingCodes/src/tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testing.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +86,39 @@
       <recent name="D:\Java DSA\Multi-Threading\src\C_Syncronization" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaMultiThreadingCodes.src.I_LowLevelProducerConsumer.App">
-    <configuration name="A_FrogJumpKSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions.A_FrogJumpKSteps" />
+  <component name="RunManager" selected="Application.A_Pattern (2)">
+    <configuration name="A_Pattern (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultithreadingCodingQues.A_Pattern" />
       <module name="JAVA Important Concept" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Questions.*" />
+          <option name="PATTERN" value="MultithreadingCodingQues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A_Pattern (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultithreadingCodingQues.A_Pattern" />
+      <module name="JAVA Important Concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultithreadingCodingQues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultithreadingCodingQues.A_Pattern" />
+      <module name="JAVA Important Concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultithreadingCodingQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMultiThreadingCodes.src.H_WaitAndNotify.App" />
+      <option name="MAIN_CLASS_NAME" value="JavaMultiThreadingCodes.H_WaitAndNotify.App" />
       <module name="JAVA Important Concept" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaMultiThreadingCodes.src.H_WaitAndNotify.*" />
+          <option name="PATTERN" value="JavaMultiThreadingCodes.H_WaitAndNotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,32 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaMultiThreadingCodes.src.I_LowLevelProducerConsumer.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMultiThreadingCodes.src.I_LowLevelProducerConsumer.App" />
+    <configuration name="Worker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMultiThreadingCodes.C_JoiningAndSynchronizeThreads.Worker" />
       <module name="JAVA Important Concept" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaMultiThreadingCodes.src.I_LowLevelProducerConsumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JAVA Important Concept" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WorkerThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadPools_5.WorkerThreadPool" />
-      <module name="JAVA Important Concept" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreadPools_5.*" />
+          <option name="PATTERN" value="JavaMultiThreadingCodes.C_JoiningAndSynchronizeThreads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaMultiThreadingCodes.src.I_LowLevelProducerConsumer.App" />
+        <item itemvalue="Application.A_Pattern (2)" />
+        <item itemvalue="Application.A_Pattern (1)" />
+        <item itemvalue="Application.A_Pattern" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.WorkerThreadPool" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.A_FrogJumpKSteps" />
+        <item itemvalue="Application.Worker" />
       </list>
     </recent_temporary>
   </component>
@@ -148,11 +191,6 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>12</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/testing.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
